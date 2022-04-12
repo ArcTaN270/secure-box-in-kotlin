@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">PasswordStore</string>
+    <string name="register_text">进入</string>
+    <string name="enter_password">Password For Enter</string>
+    <string name="welcomeText">请输入登陆密码</string>
+    <string name="creat_a_account">创建个人用户</string>
+    <string name="hint_for_creat">由于您第一次使用，请先创建一个打开密码箱的密码</string>
+    <string name="creat_password">输入密码：</string>
+    <string name="ensure_password">确认密码：</string>
+    <string name="creat_user_name">您的昵称</string>
+    <string name="ensure">确认</string>
+    <string name="backup">Backup</string>
+    <string name="title_activity_creatword">Creat New Password</string>
+    <string name="prompt_email">username</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">SAVE</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="hintforcreate">关于保密的信息</string>
+</resources>
